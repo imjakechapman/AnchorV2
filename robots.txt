@@ -1,0 +1,2 @@
+// Well hello there Google bot!
+User-agent: *

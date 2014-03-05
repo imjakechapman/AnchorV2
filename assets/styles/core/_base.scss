@@ -1,0 +1,40 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-size: 100%;
+}
+
+/*
+*
+*
+* YUCKY OLD BROWSERS
+*
+*
+*/
+div.browsehappy {
+  background: rgba(0,0,0, .15);
+  padding: 3em;
+  text-align: center;
+
+  p {
+    margin: 0;
+    text-shadow: 0 1px 0 rgba(255,255,255, .5);
+
+    a {
+      color: #333;
+    }
+  }
+}

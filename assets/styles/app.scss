@@ -1,0 +1,47 @@
+/*
+*
+* Anchor V2 Style Manifest
+*
+*/
+
+/*
+ *
+ * Get Ya Reset on.
+ *
+ * via Normalize.css
+ *
+ */
+@import 'vendor/reset';
+
+
+/*
+ *
+ * Core Styling
+ *  
+ * Basic styling used across projects
+ *
+ */
+@import 'core/grid';
+@import 'core/colors';
+@import 'core/type';
+@import 'core/base';
+
+
+/*
+ *
+ * Application Styling
+ *  
+ * app specific element styling
+ *
+ */
+ @import 'application/application';
+
+
+
+ /*
+ *
+ * Vendor Styling
+ *  
+ * vendor specific element styling
+ *
+ */
