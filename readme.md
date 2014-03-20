@@ -15,3 +15,7 @@ Base of assets for starting a project.
     Run `npm install` from terminal in root directory
     Run `gulp` to start watching files
     Run `gulp jsBuild` to run require.js through R.js and spit out a /dist/js/main.min.js
+
+
+#### TODO:
+1. Refactor Gulpfile to include more configuration setup (image minification, better js watch etc...)
