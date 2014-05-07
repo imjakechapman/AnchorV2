@@ -1,5 +1,6 @@
 {
-  "package_name": "dunndiy",
+  "package_name": "Package Name",
+  "description": "Package Description",
   "devDependencies": {
     "gulp": "^3.6.0",
     "gulp-autoprefixer": "0.0.7",
