@@ -1,15 +1,19 @@
 {
-  "package_name": "Package Name",
-  "description": "Package Description",
+  "package_name": "dunndiy",
   "devDependencies": {
-    "gulp": "~3.5.1",
-    "gulp-util": "~2.2.14",
-    "gulp-notify": "~0.4.0",
-    "gulp-rename": "~1.0.0",
-    "gulp-sass": "~0.6.0",
-    "gulp-ruby-sass": "~0.3.0",
-    "gulp-livereload": "~1.1.1",
-    "gulp-requirejs": "~0.1.3",
-    "gulp-uglify": "~0.2.1"
+    "gulp": "^3.6.0",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-clean": "^0.2.4",
+    "gulp-imagemin": "^0.2.0",
+    "gulp-jshint": "^1.5.3",
+    "gulp-livereload": "^1.2.0",
+    "gulp-minify-css": "^0.3.1",
+    "gulp-notify": "^1.2.5",
+    "gulp-rename": "^1.2.0",
+    "gulp-requirejs": "^0.1.3",
+    "gulp-sass": "^0.7.1",
+    "gulp-uglify": "^0.2.1",
+    "gulp-util": "^2.2.14",
+    "tiny-lr": "0.0.5"
   }
 }
