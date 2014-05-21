@@ -2,6 +2,8 @@
 
 Base of assets for starting a project.
 
+[![Code Climate](https://codeclimate.com/github/imjakechapman/Mortar.png)](https://codeclimate.com/github/imjakechapman/Mortar)
+
 
 ### Included assets
 1. Require.js base with vendor and module folders and conditional module loading per request via data-feature element tags
